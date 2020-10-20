@@ -29,7 +29,7 @@ public class CustomRealm extends AuthorizingRealm {
      * @Description 权限配置类
      * @Param [principalCollection]
      * @Return AuthorizationInfo
-     * @Author WangShiLin
+     * @Author pzl
      */
     @Override
     protected AuthorizationInfo doGetAuthorizationInfo(PrincipalCollection principalCollection) {

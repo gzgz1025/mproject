@@ -1,4 +1,4 @@
-package com.example.mproject.product;
+package com.example.mproject.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jms.core.JmsMessagingTemplate;

@@ -4,12 +4,13 @@ import com.example.mproject.bean.Permissions;
 import com.example.mproject.bean.Role;
 import com.example.mproject.bean.User;
 import com.example.mproject.service.LoginService;
+import org.springframework.stereotype.Service;
 
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
-
+@Service
 public class LoginServiceImpl implements LoginService {
     @Override
     public User getUserByName(String name) {

@@ -1,3 +1,4 @@
+/*
 package com.example.mproject.shiro.controller;
 
 import com.example.mproject.shiro.bean.User;
@@ -14,7 +15,7 @@ import org.springframework.util.StringUtils;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-@RestController
+@RestController(value = "logincontroller")
 @Slf4j
 public class LoginController {
 
@@ -65,3 +66,4 @@ public class LoginController {
         return "add success!";
     }
 }
+*/

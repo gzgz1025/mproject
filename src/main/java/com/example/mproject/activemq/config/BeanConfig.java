@@ -1,4 +1,4 @@
-package com.example.mproject.config;
+package com.example.mproject.activemq.config;
 
 import org.apache.activemq.ActiveMQConnectionFactory;
 import org.apache.activemq.command.ActiveMQQueue;

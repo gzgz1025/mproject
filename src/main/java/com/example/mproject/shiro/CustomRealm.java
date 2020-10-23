@@ -1,10 +1,10 @@
 package com.example.mproject.shiro;
 
 
-import com.example.mproject.bean.Permissions;
-import com.example.mproject.bean.Role;
-import com.example.mproject.bean.User;
-import com.example.mproject.service.LoginService;
+import com.example.mproject.shiro.bean.Permissions;
+import com.example.mproject.shiro.bean.Role;
+import com.example.mproject.shiro.bean.User;
+import com.example.mproject.shiro.service.LoginService;
 import org.apache.shiro.authc.AuthenticationException;
 import org.apache.shiro.authc.AuthenticationInfo;
 import org.apache.shiro.authc.AuthenticationToken;

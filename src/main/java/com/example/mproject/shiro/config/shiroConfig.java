@@ -1,4 +1,4 @@
-package com.example.mproject.config;
+package com.example.mproject.shiro.config;
 
 import com.example.mproject.shiro.CustomRealm;
 import org.apache.shiro.mgt.SecurityManager;

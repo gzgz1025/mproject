@@ -1,4 +1,4 @@
-package com.example.mproject.filter;
+package com.example.mproject.shiro.filter;
 
 import lombok.extern.slf4j.Slf4j;
 import org.apache.shiro.authz.AuthorizationException;

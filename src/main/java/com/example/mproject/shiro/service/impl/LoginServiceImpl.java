@@ -1,9 +1,9 @@
-package com.example.mproject.service.impl;
+package com.example.mproject.shiro.service.impl;
 
-import com.example.mproject.bean.Permissions;
-import com.example.mproject.bean.Role;
-import com.example.mproject.bean.User;
-import com.example.mproject.service.LoginService;
+import com.example.mproject.shiro.bean.Permissions;
+import com.example.mproject.shiro.bean.Role;
+import com.example.mproject.shiro.bean.User;
+import com.example.mproject.shiro.service.LoginService;
 import org.springframework.stereotype.Service;
 
 import java.util.HashMap;

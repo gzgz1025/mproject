@@ -1,4 +1,4 @@
-package com.example.mproject.bean;
+package com.example.mproject.shiro.bean;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

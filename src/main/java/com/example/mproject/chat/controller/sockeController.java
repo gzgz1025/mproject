@@ -1,3 +1,4 @@
+/*
 package com.example.mproject.chat.controller;
 
 import org.springframework.util.StringUtils;
@@ -10,17 +11,21 @@ import java.net.InetAddress;
 import java.net.UnknownHostException;
 @RestController(value = "scocketcontroller")
 public class sockeController {
-    /**
+    */
+/**
      * 登陆界面
-     */
+     *//*
+
     @GetMapping("/login")
     public ModelAndView login() {
         return new ModelAndView("/login");
     }
 
-    /**
+    */
+/**
      * 聊天界面
-     */
+     *//*
+
     @GetMapping("/index")
     public ModelAndView index(String username, String password, HttpServletRequest request) throws UnknownHostException {
         if (StringUtils.isEmpty(username)) {
@@ -32,3 +37,4 @@ public class sockeController {
         return mav;
     }
 }
+*/

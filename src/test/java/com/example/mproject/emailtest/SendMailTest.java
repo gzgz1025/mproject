@@ -1,4 +1,4 @@
-package com.example.mproject.email;
+package com.example.mproject.emailtest;
 
 import com.example.mproject.email.service.SendMail;
 import org.junit.Test;
